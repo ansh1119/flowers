@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">flowers</string>
+    <string name="rose">ROSE</string>
+    <string name="carnation">CARNATION</string>
+    <string name="tulip">TULIP</string>
+    <string name="daisy">DAISY</string>
+    <string name="sunflower">SUNFLOWER</string>
+    <string name="hibiscus">HIBISCUS</string>
+</resources>
